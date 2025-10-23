@@ -1,3 +1,14 @@
+# PyTorch Tutorial (Mirror)
+
+***
+
+**🚨 Important Attribution:** This repository is a manually uploaded mirror of the original **PyTorch Tutorial** by **[yunjey](https://github.com/yunjey)**.
+
+All credit for the code and content belongs to the original author. Please visit the original source here:
+**[Original Repository: yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)**
+
+***
+
 <p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
 
 --------------------------------------------------------------------------------
@@ -35,18 +46,5 @@ This repository provides tutorial code for deep learning researchers to learn [P
 <br/>
 
 ## Getting Started
-```bash
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
-$ cd pytorch-tutorial/tutorials/PATH_TO_PROJECT
-$ python main.py
-```
-
-<br/>
-
-## Dependencies
-* [Python 2.7 or 3.5+](https://www.continuum.io/downloads)
-* [PyTorch 0.4.0+](http://pytorch.org/)
-
-
 
 
